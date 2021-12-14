@@ -1,0 +1,40 @@
+_repo: Eline-Vere_66911
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+  translator:
+    agent_name: Grein, Jack Thomas
+    gutenberg_agent_id: '54022'
+    url: http://www.gutenberg.org/2009/agents/54022
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis_Couperus
+    - https://nl.wikipedia.org/wiki/Louis_Couperus
+description: ''
+gutenberg_issued: '2021-12-09'
+identifiers:
+  gutenberg: '66911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Eline Vere
+url: http://www.gutenberg.org/ebooks/66911
