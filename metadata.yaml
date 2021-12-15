@@ -15,6 +15,9 @@ contributor:
     agent_name: Grein, Jack Thomas
     gutenberg_agent_id: '54022'
     url: http://www.gutenberg.org/2009/agents/54022
+covers:
+- cover_type: archival
+  image_path: 66911-h/images/front-cover.jpg
 creator:
   author:
     agent_name: Couperus, Louis
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Louis_Couperus
     - https://nl.wikipedia.org/wiki/Louis_Couperus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66911#Eline-Vere
 gutenberg_issued: '2021-12-09'
 identifiers:
   gutenberg: '66911'
